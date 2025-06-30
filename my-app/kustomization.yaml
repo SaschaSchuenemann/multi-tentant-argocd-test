@@ -1,3 +1,4 @@
 resources:
   - deployment.yaml
   - service.yaml
+  - ../../292dde88-a1b8-4d02-9052-a31b4eca7760/s3_bucket.yaml
